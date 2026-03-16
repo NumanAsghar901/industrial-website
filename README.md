@@ -63,15 +63,8 @@ You can run it locally in any of these ways:
 
 ---
 
-## Deploy on Vercel (from GitHub)
-1. Push the project to a GitHub repository
-2. On Vercel:
-   - **Add New → Project**
-   - Import your GitHub repo
-   - Framework preset: **Other**
-   - Build command: *(none)*
-   - Output directory: *(none)*
-3. Deploy
+## Deployed on Vercel 
+`https://industral-website.vercel.app/`
 
 ---
 
